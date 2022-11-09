@@ -4,6 +4,9 @@
 -Live Site URL:
 [https://qrcodecomponent1182.netlify.app/]
 
+###Screenshot
+![](screenshot/qr%20code%20component.png)
+
 ### Built with
 -HTML
 -CSS
