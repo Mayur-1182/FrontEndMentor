@@ -9,7 +9,6 @@
 
 ### Built with
 -HTML
--semantic html
 -CSS
 -css property
 -Vanilla Javascript
