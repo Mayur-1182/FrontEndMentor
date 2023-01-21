@@ -10,7 +10,7 @@
 ### Built with
 -HTML
 -CSS
--css property
+-CSS property
 -Vanilla Javascript
 
 ## Author
