@@ -9,6 +9,7 @@
 
 ### Built with
 -HTML
+-semantic html
 -CSS
 -Vanilla Javascript
 
