@@ -11,6 +11,7 @@
 -HTML
 -semantic html
 -CSS
+-css property
 -Vanilla Javascript
 
 ## Author
